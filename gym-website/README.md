@@ -15,8 +15,7 @@ Here is a working live demo : https://ftn-gym-website.netlify.app/
 * JavaScript(little bit)
 
 # Screenshot of the project
-
-
+![full page screenshot](https://github.com/hargovindsinghrawat/mini-projects/blob/main/gym-website/images/screenshot.jpg)
 
 # Credits and references: 
 A heartfelt thanks to @BrainDesign
