@@ -1,7 +1,5 @@
 # About
-A Simple 3-4 page gym website (Static)
-
-The main purpose of this website is to help the local gym owner give there business a online presence so that potential members can find them and in a long run this will increase the revenue.
+A Simple 4 page gym website (Static)
 
 # Deployment
 The application was deployed to netlify.
@@ -15,8 +13,7 @@ Here is a working live demo : https://ftn-gym-website.netlify.app/
 * JavaScript(little bit)
 
 # Screenshot of the project
-
-
+![full page screenshot](https://github.com/hargovindsinghrawat/mini-projects/blob/main/gym-website/images/screenshot.jpg)
 
 # Credits and references: 
 A heartfelt thanks to @BrainDesign
